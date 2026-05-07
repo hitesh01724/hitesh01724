@@ -87,7 +87,7 @@ I enjoy building intelligent systems that solve real-world business problems.
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/hitesh-kumar-b73059302/)
+- 💼 LinkedIn: https://www.linkedin.com/in/hitesh-kumar-b73059302/
 - 📧 Email: hiteshkumar01724@gmail.com
 
 ---
