@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Robert
+# Hi there 👋, I'm Hitesh Kumar
 
 ## 🚀 Python & Full-Stack Developer | GenAI Enthusiast
 
@@ -79,17 +79,16 @@ I enjoy building intelligent systems that solve real-world business problems.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitesh01724&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh01724&layout=compact)
 
 ---
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: yourmail@example.com
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/hitesh-kumar-b73059302/)
+- 📧 Email: hiteshkumar01724@gmail.com
 
 ---
 
-⭐ Always open to collaborating on interesting projects involving Python, AI, scalable systems, and modern web technologies.
